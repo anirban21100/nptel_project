@@ -1,7 +1,7 @@
 This is a simple project that scans NPTEL course certificates. The source code can also be modified accordingly to scan other certificates.<br>
 **NOTE:** This code is only valid if the certificate has a QR code to verify the certificate contents.<br>
-**STEPS:**
 <br>
+**STEPS:**<br>
 1. First, convert the NPTEL Certificate from PDF format into JPG, JPEG, or PNG image format. It can done by any online tool or by clicking _save_ _as_ in Acrobat Reader.
 2. Load all the certificate images into a single folder.
 3. Clone this repo in any folder of convenience.
