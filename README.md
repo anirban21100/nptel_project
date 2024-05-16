@@ -10,3 +10,5 @@ _This is a simple project that scans NPTEL course certificates. The source code 
 6. Run `pip install -r "PATH\requirements.txt"` to install all the required modules.
 7. Run `python -u "PATH\nptel_check.py"` in the terminal.
 8. The program should execute and give you the scanned QR contents.<br>
+
+_This code has been tested only on Windows machine but the workflow is not very complicated at all, so it should run on all equivalent platforms with minor changes regardless._
